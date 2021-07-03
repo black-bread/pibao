@@ -1,0 +1,141 @@
+User privacy statement
+
+Preface Scan (hereafter referred to as "this product") is a mobile application based on Android (Android) system, and is a life inquiry tool. The scan is provided by the Pibao R&D team (hereinafter referred to as "the team").
+
+The team provides you with the relevant services involved in this agreement in accordance with the following agreement. Please read this agreement carefully before using this product service. Only when you fully agree to all agreements can you become a user of this product (hereinafter referred to as "user") and use the corresponding service. When you start to use this product, it means that you have carefully read and clearly agreed to abide by this agreement and all the terms, policies and guidelines incorporated into it by reference, and are bound by these rules (hereinafter referred to as "this agreement"). We may revise this agreement from time to time in accordance with the requirements of laws and regulations or the needs of business operations. Unless otherwise specified, any changes or modifications will take effect immediately when the revised content is released on this product, and your use and continued use of this product will indicate that you accept such changes or modifications. If you do not agree to all the provisions of this agreement (including any amendments we may make to it or other rules quoted in it from time to time), please do not use all the services provided by this product, or you can voluntarily cancel the services provided by this product service. In order to facilitate your understanding of the terms and conditions applicable to your use of this product, we will publish our amendments to this agreement on this product. You should review this agreement and other rules incorporated by reference from time to time.
+
+1. Service content 1.1 The specific service content of this team is provided by us and updated from time to time based on the actual situation. We have the final right to interpret the services provided.
+
+1.2 This product service is for individual users only. Except for our written consent, neither you nor other users may use any information on this product for commercial purposes.
+
+1.3 Relevant equipment and network resources (such as personal computers and other devices related to access to the Internet or mobile network) and the required fees (such as telephone charges for access to the Internet) required when you use this product service And Internet access fees) are borne by you.
+
+2. Information provision and privacy protection 2.0 App call permission description
+
+Allows the program to open the network socket "uses-permission android:name=android.permission.INTERNET" to access the network, which is used to provide online service functions.
+
+Request access to use the camera device "uses-permission android:name=android.permission.CAMERA" permission to take pictures, for the normal use of the function of taking pictures and scanning codes.
+
+Visit the flash "uses-permission android:name=android.permission.FLASHLIGHT" to use the flash, which is used for taking pictures and scanning codes at night.
+
+Allow access to the vibration device "uses-permission android:name="android.permission.VIBRATE" to use vibration, which is used to remind the use of the scan code function.
+
+Write to external storage "uses-permission android:name=android.permission.WRITE_EXTERNAL_STORAGE" allows programs to write to external storage, such as writing files on an SD card, to provide data import and export sharing.
+
+2.1 When you access, use this product or apply for the use of this product service, you must provide your true personal information, and you should update your personal information in a timely manner based on actual changes. Protecting user privacy is our key principle. We provide privacy protection service functions through various technical means and strengthening internal management methods to fully protect the security of your personal information.
+
+2.2 This product is not responsible for reviewing the authenticity, accuracy or completeness of the personal information you provide. Any problems and consequences caused by untrue, inaccurate or incomplete information shall be borne by you, and you shall guarantee that we Free from any damage or liability arising therefrom. If we find that the personal information you provide is false, inaccurate or incomplete, we have the right to decide on our own to terminate the provision of services to you.
+
+2.3 In order to provide you with better services, you agree and authorize this product to conduct joint research with third parties with which it can cooperate, and to invest your information obtained through this agreement into such joint research. However, this product and the third party cooperating with this product shall, before carrying out the above-mentioned joint research, require the third party it cooperates with to keep confidential your information obtained in the joint research.
+
+2.4 We promise to adopt industry practices to protect your information, but you understand that, given technical limitations, we cannot ensure that users' personal information will not be leaked at all.
+
+3. Usage Guidelines 3.1 When you use this product and service, you must abide by the relevant laws and regulations of the country, and do not publish, copy, upload, disseminate, distribute, store, create or otherwise disclose information containing the following content through this product:
+
+(1) Opposing the basic principles established by the Constitution;
+
+(2) Endangering national security, leaking state secrets, subverting state power, and undermining national unity;
+
+(3) Damage to national honor and interests;
+
+(4) Inciting ethnic hatred, ethnic discrimination, and undermining ethnic unity;
+
+(5) Undermining the state's religious policies and promoting cults and feudal superstitions;
+
+(6) Spreading rumors, disturbing social order, and undermining social stability;
+
+(7) Spreading obscenity, pornography, gambling, violence, murder, terror, or instigating criminal, fraudulent or other offensive messages, data, information, text, music, sound, photos, graphics, codes or other materials ；
+
+(8) Insulting or slandering others, infringing on the lawful rights and interests of others;
+
+(9) Other violations of the Constitution and laws, administrative regulations or rules and regulations;
+
+(10) Content that may infringe others' patents, trademarks, trade secrets, copyrights, or other intellectual property rights or proprietary rights;
+
+(11) Content that impersonates any person or entity or otherwise distorts the relationship between you and any person or entity;
+
+(12) Promotional information, political activities, advertisements or solicitation of opinions provided without request;
+
+(13) Private information of any third party, including but not limited to address, telephone number, email address, ID number and credit card number;
+
+(14) Viruses, unreliable data or other harmful, destructive or harmful files;
+
+(15) Content that is not related to the topic of the interactive area where the content is located;
+
+(16) According to our own judgment, content that is offensive, or restricts or prevents others from using or enjoying the interactive area or the content of this product, or may cause us or our affiliates or other users to cause any type of damage or liability Content;
+
+(17) Other content that contains content prohibited by laws or administrative regulations.
+
+3.2 Users shall not use the services of this product to engage in the following activities that endanger the security of Internet information and network:
+
+(1) Enter the Internet information network or use Internet information network resources without permission;
+
+(2) Delete, modify or add functions of the Internet information network without permission;
+
+(3) Without permission, delete, modify or add data and applications stored, processed or transmitted in the Internet information network;
+
+(4) Deliberately making and spreading computer or mobile phone viruses and other destructive programs;
+
+(5) Other acts that endanger the security of the Internet information network.
+
+3.3 We reserve the right to filter, remove, screen or edit any content published or stored on this product at any time for any reason and without notice. You are responsible for backing up and replacing any content published or stored on this product. Contents, costs and expenses are at your own expense.
+
+3.4 You shall bear legal responsibility for your actions during the use of this product and service. If you are a person with limited capacity or incapacity, your legal guardian shall bear corresponding legal responsibilities.
+
+3.5 Minors must use this product (or service) with their guardians. The guardians of minors should read this privacy policy for the benefit of minors. If minors submit personal information, they must obtain the consent of the guardian and complete it under the guidance of the guardian. If you are the guardian of a minor, when you have any questions about the personal information of the minor you are guarding, you can contact us through the contact information at the bottom of this agreement.
+
+3.6 If your operation affects the overall stability or integrity of the system, we will suspend or terminate your operation until the related problem is resolved.
+
+4. Disclaimer 4.1 This product is an open platform. Users uploading personal data such as articles or photos to the Internet may be copied, reprinted, tampered with, or used for other illegal purposes by other organizations or individuals. Users must be fully aware of this The existence of such risks. As a network service provider, we are not responsible for any statements, statements or content provided by users in any forum, personal homepage or other interactive areas. You expressly agree that the risks or all consequences of using this product service will be entirely borne by you, and we will not bear any responsibility for the above risks or consequences.
+
+4.2 If you violate this agreement, violate ethics or the law, or violate the rights of others (including but not limited to intellectual property rights), we will not bear any responsibility. At the same time, we are not responsible for any third party sending services through this product or any content included in the service.
+
+4.3 We are not responsible for any content posted, stored or uploaded by you, other users or any third party, or any loss or damage caused by such content.
+
+4.4 We are not responsible for any error, slander, slander, slander, omission, fallacy, obscenity, pornography or profanity that any third party may cause to you through this product.
+
+4.5 For hacking, computer or mobile phone viruses, or your account or password is illegally used, stolen, tampered with or lost by others due to your negligence, or your personal information is leaked due to other websites linked to this product, or you We are not liable for losses caused by other causes not caused by this product. If you find any illegal use of user accounts or security breaches, please contact us immediately.
+
+4.6 We are not responsible for any network service interruption or other defects caused by any reason other than this product.
+
+4.7 We do not guarantee that the service will meet your requirements; we do not guarantee that the service will not be interrupted, nor do we guarantee the timeliness, safety and accuracy of the service.
+
+4.8 In any case, the total amount of liability borne by us caused by or related to the use of this product, whether based on contract, guarantee, tort, product liability, strict liability or other theories, shall not exceed yours Any service fees paid to us for accessing or using this product.
+
+5. Service change, interruption or termination 5.1 If it is necessary to suspend the network service or adjust the content of the service due to the need of upgrading, we will make a notice on the website as much as possible. We do not assume any responsibility for losses caused by users failing to browse the notice in time.
+
+5.2 You expressly agree that we reserve to adjust the content, type and form of the services provided by this product at any time based on the actual situation, or at our own discretion to authorize a third party to provide you with the services originally provided by us. We do not assume any responsibility for losses caused to you or other users due to business adjustments. At the same time, we reserve the right to change, interrupt or terminate all or part of the services of this product at any time.
+
+5.3 In the event of any of the following situations, we have the right to unilaterally interrupt or terminate the provision of services to you without notifying you, and without any liability to you or a third party:
+
+(1) The personal information you provided is untrue;
+
+(2) You violated this agreement;
+
+(3) Use this product platform for commercial purposes without our written consent.
+
+5.4 You can notify us at any time to terminate the provision of services to you or directly cancel the service of this product. From the date you terminate or cancel the service, we will no longer bear any form of responsibility to you.
+
+6. Special agreement 6.1 If your use of this service violates national laws and regulations or infringes on the legal rights of any third party, we have the right to directly delete the information that violates the regulations, and can suspend or terminate the provision to you service.
+
+6.2 If you use this product service to engage in any illegal or infringing acts, you are solely responsible for it. Therefore, if you cause any loss to us or any third party, you shall be responsible for full compensation and protect us from any damages arising therefrom. .
+
+6.3 You agree that we will send you any notices and notices related to this product and service through announcements, notices, emails and other forms on important pages.
+
+6.4 If you have any complaints about personal information protection related to this product and service, please contact us, and we will respond within 15 days from the date of receipt of the complaint.
+
+6.5 The validity, interpretation and execution of this agreement shall be governed by the laws of the People's Republic of China.
+
+6.6 If it is not for this product to update this agreement, after you reconfirm your agreement and sign this agreement, its effect will be valid for all operations when you log in to this product at this time and in the future.
+
+6.7 Your authorization to this product under this agreement will be regarded as an authorization to this product and its related products. This product and its related products can perform related operations with your authorization and this agreement.
+
+6.8 If there is any dispute about the content of this agreement or its implementation, it shall be resolved through friendly negotiation as far as possible; if the negotiation fails, any party may bring a lawsuit to the Shenzhen People's Court.
+
+6.9 The title in this agreement is provided for convenience only and does not affect the interpretation of the clause itself. The final interpretation right of this agreement belongs to this product.
+
+7. Contact us If you have any questions, comments, suggestions or complaints about our privacy policy and the handling of other contents of this agreement, please contact us in the following ways.
+
+Team: Pibao Team Contact Email: pibao006@outlook.com If you have more questions, please contact customer service for feedback
+
+The update date of this privacy policy version is at 02:00 on March 25, 2021, and will come into effect at 02:00 on March 25, 2021.
